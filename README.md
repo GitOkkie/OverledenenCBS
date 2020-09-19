@@ -1,4 +1,5 @@
-Ga naar de URL in Overledenen__geslacht_en_leeftijd__per_week.url
+Ga naar
+    https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70895ned/table?dl=35C26
 
 Save de data als "CVS volgens tabelindeling"
 
