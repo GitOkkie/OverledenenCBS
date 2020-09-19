@@ -4,8 +4,6 @@ from __future__ import print_function
 from sys import stdin, argv
 from re import search
 
-cijfers=[]
-
 def read_cijfers(f):
     ''' yield year week number '''
 
