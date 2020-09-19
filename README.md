@@ -3,8 +3,10 @@ Ga naar
 
 Save de data als "CVS volgens tabelindeling"
 
-Run:
-    `Overledenen__geslacht_en_leeftijd__per_week.py < nieuwe.cvs > Overledenen__geslacht_en_leeftijd__per_week.cvs`
+Dit script zet alle jaren per week naast elkaar en maakt van week 53/week 0 weer een hele week:
+```
+prepare_cvs.py < nieuwe.cvs > Overledenen__geslacht_en_leeftijd__per_week.cvs
+```
 
 Open in LibreOffice en Refresh data:
     Overledenen__geslacht_en_leeftijd__per_week.ods
